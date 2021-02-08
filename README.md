@@ -8,7 +8,7 @@ This project includes example demos for learning basic concepts of Python and pr
 - loops
 - modules and packages
 - classes and objects
-etc
+- etc
 
 # The project belongs to: 
 
